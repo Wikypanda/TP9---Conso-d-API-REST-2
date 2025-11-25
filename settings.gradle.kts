@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "PotterApp"
+rootProject.name = "PokeApi"
 include(":app")
  

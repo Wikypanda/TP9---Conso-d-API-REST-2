@@ -1,4 +1,4 @@
-package fr.geiffel.potterapp
+package fr.geiffel.pokeapi
 
 import org.junit.Test
 

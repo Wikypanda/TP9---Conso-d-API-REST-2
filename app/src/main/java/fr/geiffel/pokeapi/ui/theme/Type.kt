@@ -1,4 +1,4 @@
-package fr.geiffel.potterapp.ui.theme
+package fr.geiffel.pokeapi.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
